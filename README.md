@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hello, I am Software Engineer with a passion for Science and Human behavior.<br>🔭 I’m currently working on Mediana<br>💬 Ask me about everything, shoot me an email or Linkedin
+Hello, I am Software Engineer with a passion for Science and Human behavior.<br>
+ I am interested in, write about, and develop (open source) software solutions using JavaScript, TypeScript, ReactJS, NodeJS and Php.
+<br>🔭 I’m currently working on Mediana<br>💬 Ask me about everything, shoot me an email or Linkedin
 
 
 ## 🌐 Socials:
