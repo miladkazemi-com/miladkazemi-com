@@ -1,11 +1,60 @@
-# 💫 About Me:
-Hello, I am Software Engineer with a passion for Science and Human behavior.<br>
- I am interested in, write about, and develop (open source) software solutions using JavaScript, TypeScript, ReactJS, NodeJS and Php.
-<br>🔭 I’m currently working on Mediana<br>💬 Ask me about everything, shoot me an email or Linkedin
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&vCenter=true&random=false&width=600&height=70&lines=%F0%9F%92%8EHello+My+name+is+Milad+Kazemi;I+am+Software+Engineer+with+a+passion+;+for+Science++and+Human+behavior.;+I'm+interested+in+Blockchain%2C+Web3%2C+and+Metaverse)](https://git.io/typing-svg)
+<!-- animation end  -->
+<img align="right" alt="Coding" width="400" style="border-radius:20px;"
+	src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
+<hr>
+<h3 style="margin-top: 4px;">BUILDING & ENGAGING THE COMMUNITY</h3>
+• 💪🏻 Hello, I am Software Engineer with a passion for Science and Human behavior.<br>
+• 🌱 I’m currently Learning advanced Programming stuffs<br>
+• 👀 I'm interested in Blockchain, Web3, and Metaverse<br>
+• ✨ I am interested in, write about, and develop (open source) software solutions using JavaScript, TypeScript, ReactJS, NodeJS and Php. <br>
+• 🔭 I’m currently working on Mediana<br>
+• 🚀 I'm a Consistent, Hard-working and Motivated person<br>
+• 💯 I'm looking to improve my Position in the workforce<br>
+• ✨ I have 8+ years of experience in Community Management, Content & <br>
+• 📫 Reach me via Telegram DM (@miladkazemi_com).shoot me an email or Linkedin<br>
+<hr>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/miladkazemi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/miladkazemi-com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miladkazemi-com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/miladkazemi-com) 
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me on 🤝: </h3>
+ 
+<p align="center">
 
-# 💻 Tech Stack:
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+ <div align="center"  class="icons-social" style="margin-center: 10px;">
+<div>   
+    <a href="mailto:miladkazemi.ir@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="Milad Kazemi - Email"></a>
+    <a href="https://t.me/miladkaemi_com" target="_blank"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=F0DB4F" alt="Milad Kazemi -Telegram"></a>
+    <a href="https://twitter.com/miladkaemi_com" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=F0DB4F" alt="Milad Kazemi-Twitter"></a>
+    <a href="https://linkedin.com/in/miladkaemi-com" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="Milad Kazemi-Linkedin"></a><br>
+    <a href="https://facebook.com/miladkaemi_com" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=F0DB4F" alt="Milad Kazemi- Facebook"></a>
+    <a href="https://www.Instagram.com/miladkaemi_com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F" alt="Milad Kazemi-Instagram"></a>
+    <a href="https://youtube.com/@miladkaemi_com" target="_blank"><img src="https://img.shields.io/badge/Youtube-0D1117?style=for-the-badge&logo=youtube&logoColor=F0DB4F" alt="Milad Kazemi-Youtube"></a>
+    <a href="https://www.fiverr.com/miladkaemi_com" target="_blank"><img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=F0DB4F" alt="Milad Kazemi-fiverr"></a>
+<a href="https://miladkaemi_com.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=F0DB4F" alt="Milad Kazemi-Medium"></a>
+    <br>
+</div>
+
+</p>
+
+<h2>:label: Github Stats</h2>
+
+<div>
+    <a href="#"><img alt="Milad Kazemi Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miladkazemi-com&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
+    <br>
+    <a href="#"><img alt="Milad Kazemi Github Stats" src="https://github-readme-stats.vercel.app/api?username=miladkazemi-com&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
+    <br>
+    <a href="#"><img alt="Milad Kazemi Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=miladkazemi-com&theme=gruvbox_duo&background=0D1117&hide_border=true&ring=F0DB4F&currStreakLabel=F0DB4F&sideNums=F0DB4F&currStreakNum=F0DB4F&sideLabels=F0DB4F" height="200px" /></a>
+    <br>
+</div>
+
+<h2>⚡ Skills</h2>
+
+| # | # | # | # |
+| :------------ | :--------------- | :----- | :----- 
+| <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Windows-0D1117?style=flat-square&logo=Windows&logoColor=F0DB4F"> |
+| <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=F0DB4F"> | 
+| <img src="https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-SASS-0D1117?style=flat-square&logo=sass&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Remix-0D1117?style=flat-square&logo=remix&logoColor=F0DB4F"> | 
+| <img src="https://img.shields.io/badge/-Next.js-0D1117?style=flat-square&logo=next.js&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-TailwindCSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&logoColor=F0DB4F"> |
+| <img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=Node.js&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Styled Component-0D1117?style=flat-square&logo=styledcomponents&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Canva-0D1117?style=flat-square&logo=canva&logoColor=F0DB4F"> | 
+| <img src="https://img.shields.io/badge/-Solidity-0D1117?style=flat-square&logo=solidity&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-ChakraUi-0D1117?style=flat-square&logo=chakraui&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Figma-0D1117?style=flat-square&logo=figma&logoColor=F0DB4F">  | 
+| <img src="https://img.shields.io/badge/-Rust-0D1117?style=flat-square&logo=rust&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Ethereum-0D1117?style=flat-square&logo=ethereum&logoColor=F0DB4F">  | <img src="https://img.shields.io/badge/-VSCode-0D1117?style=flat-square&logo=visualstudio&logoColor=F0DB4F">  | <br>
