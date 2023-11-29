@@ -58,7 +58,7 @@
     <br>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=miladkazemi-com&theme=gruvbox-duo&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=miladkazemi-com&theme=gruvbox-duo&card_width=800)](https://zehnafzar.com)
 
 <h2>⚡ Skills</h2>
 
