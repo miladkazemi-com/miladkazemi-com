@@ -51,12 +51,13 @@
 </div>
 
 </p>
+<!--
 <div>
     <a href="#"><img alt="Milad Kazemi Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miladkazemi-com&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
     <br>
     <a href="#"><img alt="Milad Kazemi Github Stats" src="https://github-readme-stats.vercel.app/api?username=miladkazemi-com&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
     <br>
-</div>
+</div> -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=miladkazemi-com&theme=gruvbox-duo&card_width=800)](https://zehnafzar.com)
 
