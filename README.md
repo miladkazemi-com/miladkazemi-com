@@ -28,7 +28,7 @@
 • 🔭 I’m currently working on Mediana<br>
 • 🚀 I'm a Consistent, Hard-working and Motivated person<br>
 • 💯 I'm looking to improve my Position in the workforce<br>
-• ✨ I have 8+ years of experience in Community Management, Content & <br>
+• ✨ I have 10+ years of experience in Community Management, Content & <br>
 • 📫 Reach me via Telegram DM (@miladkazemi_com).shoot me an email or Linkedin<br>
 <hr>
 
